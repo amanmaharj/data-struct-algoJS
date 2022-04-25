@@ -1,3 +1,5 @@
+//Queues
+
 function Queue(){
     let collection = []
     this.enqueue = function(element){
