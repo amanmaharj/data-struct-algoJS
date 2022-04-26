@@ -1,3 +1,4 @@
+
 // function Lueue(){
 //     let collection = [];
 
@@ -16,12 +17,10 @@
 //     this.length = function(){
 //         return collection.length;
 //     }
-
 //     this.reset = function(){
 //         return collection.length = 0;
 //     }
 // }
-
 // let que = new Lueue;
 
 
